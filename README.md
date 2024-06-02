@@ -16,7 +16,7 @@ AITWeather is an Android application that shows the weather details of a city. T
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/AITWeather.git
+    https://github.com/leemabhena/ait-weather-app.git
     ```
 2. Open the project in Android Studio.
 3. Build the project and run it on an emulator or a physical device.
